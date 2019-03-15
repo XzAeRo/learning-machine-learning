@@ -10,6 +10,6 @@ The majority of this scripts are created based on online tutorials, which are cr
 2. Download and navigate to the root of this repository in your console.
 2. Run: `pipenv install`
 3. Enter the virtualenv by running `pipenv shell`
-4. Load your preferred code editor, eg: for Visual Studio Code. Otherwise your linters will go crazy.
+4. Load your preferred code editor, eg: Visual Studio Code. Otherwise your linters will go crazy.
 4. Now just run any script! Eg: `python 00-intro/00-intro.py`
 5. Enjoy and read the comments I left in the code.
